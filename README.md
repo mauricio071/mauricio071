@@ -7,7 +7,7 @@
   - 💻 Atuando como desenvolvedor front-end há 2 anos
   - ✨ Principais skills são: JavaScript, Vue.js, Nuxt.js, HTML e CSS
   - 🎓 Formado em Ciência da Computação
-  - 💪 Sempre em busca de novos desafios e de me atualizar com as tendências e melhores práticas em desenvolvimento!
+  - 💪 Sempre em busca de novos desafios e de me aprimorar nas melhores práticas em desenvolvimento!
   - 📧 Contato: **naokimau@gmail.com**
 
 ###
