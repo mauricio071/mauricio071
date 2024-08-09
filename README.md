@@ -1,10 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=120&section=header"/>
 <h1 align="center">Olá! Eu sou o Maurício Naoki 👋</h1>
 <img align="right" alt="programando" width="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ###
 
-<p align="left">💻 Atuando como desenvolvedor front-end há 2 anos<br><br>✨ Principais skills são: JavaScript, Vue.js, Nuxt.js, HTML e CSS<br><br>🎓 Formado em Ciência da Computação<br><br>🔥 Sempre buscando novos desafios e me mantendo atualizado com as tendências da indústria!<br><br>📧 Contato: naokimau@gmail.com</p>
+  - 💻 Atuando como desenvolvedor front-end há 2 anos
+  - ✨ Principais skills são: JavaScript, Vue.js, Nuxt.js, HTML e CSS
+  - 🎓 Formado em Ciência da Computação
+  - 💪 Sempre buscando novos desafios e me mantendo atualizado com as tendências da indústria!
+  - 📧 Contato: **naokimau@gmail.com**
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<h2 align="left"></> Tecnologias front-end</h2>
+<h2 align="left">📚 Tecnologias front-end</h2>
 
 ###
 
@@ -33,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -44,7 +48,7 @@
 
 ###
 
-<h2 align="left"></> Tecnologias back-end</h2>
+<h2 align="left">📚 Tecnologias back-end</h2>
 
 ###
 
@@ -76,4 +80,4 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=100&section=footer"/>
