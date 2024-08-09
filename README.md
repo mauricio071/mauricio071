@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">📚 Tecnologias front-end</h2>
+<h2 align="left">📚 Skills front-end</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">📚 Tecnologias back-end</h2>
+<h2 align="left">📚 Skills back-end</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">🛠️ Habilidades adicionais</h2>
+<h2 align="left">🛠️ Skills adicionais</h2>
 
 ###
 
