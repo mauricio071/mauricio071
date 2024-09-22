@@ -6,7 +6,9 @@
 
 <div align="left">
    <a href="https://www.linkedin.com/in/mauricionaoki/" target="_blank"><img src="https://img.shields.io/badge/Website-00bfa6?style=flat&logo=dev.to&logoColor=white"></a>
+   <img width="1" />
    <a href="https://www.linkedin.com/in/mauricionaoki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+   <img width="1" />
    <a href="mailto:naokimau@gmail.com?subject=Contato%20pelo%20Github&body=Olá%2C%20Maurício" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </div>
 
