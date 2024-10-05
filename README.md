@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=120&section=header"/>
 <h1 align="center">Olá! Eu sou o Maurício Naoki 👋</h1>
 <img align="right" alt="programando" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
- 
+
 <div align="left">
    <a href="https://mauricionaokidev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-00bfa6?style=flat&logo=todoist&logoColor=white"></a>
    <img width="1" />
