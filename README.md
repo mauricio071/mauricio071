@@ -13,7 +13,7 @@
 ###
 <h3 align="left">Um pouco sobre mim:</h2>
 
-  - 💻 Sou um desenvolvedor front-end há 2 anos
+  - 💻 Sou um desenvolvedor front-end há mais de 2 anos
   - ✨ Principais skills são: JavaScript, TypeScript, Vue.js, Nuxt.js e React.js
   - 🎓 Formado em Ciência da Computação
   - 💬 Estou aqui para ajudar com qualquer dúvida, é só perguntar o que precisar!
