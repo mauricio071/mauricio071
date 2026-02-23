@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=120&section=header"/>
 <h1 align="center">Olá! Eu sou o Maurício Naoki 👋</h1>
-<div style="margin: 1rem">
+<p style="margin: 1rem">
    <img align="right" alt="programando" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </div>
 
