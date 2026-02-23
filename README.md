@@ -18,7 +18,7 @@
   - 💻 Sou desenvolvedor front-end desde 2022, tendo iniciado minha trajetória como full stack em 2021
   - ✨ Principais skills são: JavaScript, TypeScript, Vue.js, Nuxt.js e React.js
   - 🎓 Formado em Ciência da Computação
-  - 💬 Estou aqui para ajudar com qualquer dúvida, é só perguntar o que precisar!
+  - 🎓 Pós-graduação em IA para Devs na FIAP (em andamento)
   - 💪 Sempre em busca de novos desafios e de me aprimorar nas melhores práticas em desenvolvimento!
   - 📃 Saiba mais sobre mim no meu site: **https://mauricionaokidev.netlify.app**
 
