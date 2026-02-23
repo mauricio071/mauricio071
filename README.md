@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=120&section=header"/>
 <h1 align="center">Olá! Eu sou o Maurício Naoki 👋</h1>
-<img align="right" alt="programando" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="programando" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="margin-left: 200px; margin-bottom: 100px;">
 
 <div align="left">
    <a href="https://mauricionaokidev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-00bfa6?style=flat&logo=todoist&logoColor=white"></a>
