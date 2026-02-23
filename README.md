@@ -13,6 +13,7 @@
 ###
 <h3 align="left">Um pouco sobre mim:</h2>
 
+  - 🏢 Na Inmeta, atuo como desenvolvedor Front-End em uma plataforma de gestão para a construção civil, aprimorando o sistema e criando novos módulos
   - 💻 Sou desenvolvedor front-end desde 2022, tendo iniciado minha trajetória como full stack em 2021
   - ✨ Principais skills são: JavaScript, TypeScript, Vue.js, Nuxt.js e React.js
   - 🎓 Formado em Ciência da Computação
