@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=120&section=header"/>
 <h1 align="center">Olá! Eu sou o Maurício Naoki 👋</h1>
 
-<img align="right" alt="programando" width="220" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="programando" width="215" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<div align="left" style="margin: 1rem">
+<div align="left">
    <a href="https://mauricionaokidev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-00bfa6?style=flat&logo=todoist&logoColor=white"></a>
    <img width="1" />
    <a href="https://www.linkedin.com/in/mauricionaoki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
