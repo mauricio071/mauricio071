@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=120&section=header"/>
 <h1 align="center">Olá! Eu sou o Maurício Naoki 👋</h1>
-<img align="right" alt="programando" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="programando" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <div align="left">
    <a href="https://mauricionaokidev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-00bfa6?style=flat&logo=todoist&logoColor=white"></a>
@@ -13,7 +13,7 @@
 ###
 <h3 align="left">Um pouco sobre mim:</h2>
 
-  - 🏢 Na Inmeta, atuo como desenvolvedor Front-End em uma plataforma de gestão para a construção civil, aprimorando o sistema e criando novos módulos
+  - 🏢 Na InMeta, atuo como desenvolvedor Front-End em uma plataforma de gestão para a construção civil, aprimorando o sistema e criando novos módulos
   - 💻 Sou desenvolvedor front-end desde 2022, tendo iniciado minha trajetória como full stack em 2021
   - ✨ Principais skills são: JavaScript, TypeScript, Vue.js, Nuxt.js e React.js
   - 🎓 Formado em Ciência da Computação
